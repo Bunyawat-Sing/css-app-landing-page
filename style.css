@@ -12,6 +12,8 @@
   width: 100vw;
 }
 
+/* features Section */
+
 .Features {
   display: flex;
   flex-direction: row;
@@ -62,3 +64,5 @@ img {
  align-items: center;
  justify-content: center;
 }
+
+/* features Section */ 
